@@ -1,5 +1,5 @@
 # Futures
-- Simple Navigation Bar
+- Simple Navigation Bar With Dark And Light Mood Options
 - Landing Section With Profile Card With Awesome Animation
 - Skills Section With Simple Cards
 - Projects Section With Hover Effect
